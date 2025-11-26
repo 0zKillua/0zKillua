@@ -1,50 +1,38 @@
 ## Hi there 👋
 
-<!--
-**0zKillua/0zKillua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 - Currently focused on the Move ecosystem (Aptos,Sui)
   - Working on stable coin projects(CDP,PSM),Liquid staking,CLMMs
-  - Working on Mixer in Move.
+  - Working on a Mixer in Move.
+  - Building a multi-DEX arbitrage engine.
+#### Fun Builds:
+  - [Stablecoin systems(CDP + PSM)]( https://stablecoin-sui.vercel.app/)
+  - [Battleship game](https://0zkillua.github.io/Battleship_v1/) using Merkle proofs (no ZK)
+  - Real-world asset tokenization (RWA) — [repo](https://github.com/0zKillua/RWA_v2)
+  - [LiquidVest](https://github.com/0zKillua/LiquidVest) — protocol for tokenizing future receivables & discounted cashflows 
 
 
 ###  Audit Portfolio  
 
 
-##### Move Ecosystem   
+| Protocol               | Platform              | Findings            |
+|----------------------------|------------------------------|---------------------|
+| SUI – Haedal (liq staking) | HP                 | 1M                  |
+| SUI – Bluefin-Perps        | HP                  | 1L                  |
+| SUI – Dexlyn (CLMM)        | HP                  | 1M                  |
+| SUI – Turbo Fin           | HP                  | -              |
+| SUI – Ember Vaults        | HP                  | -                |
+| Volo Vaults             | HP                     | -              |
+| Plume Networks             | Immunefi                     | 1H, 1L              |
+| BiFY-NFT                   | Private Audit @ Radcipher    | Private             |
+| RAAC – Core Contracts      | CodeHawks / DeFi             | 12H, 12M, 7L        |
+| Iq-Ai                      | C4 / Token Launchpad         | 1H, 1L              |
+| Arg                        | Private @ GuardianAudits     | Private             |
+| Size Credit                | C4 / Lending                 | 1H                  |
+| vVv Vesting Staking        | Sherlock / DeFi              | 1M                  |
+| Goat.Tech                  | Cantina / DeFi               | 1M                  |
+| Debita Finance V3          | Sherlock / Lending           | 1M, 2L              |
 
-| Chain               | Audit/BB        | Platform            | Findings   |
-|----------------------|-----------------|---------------------|------------|
-|SUI- Haedal (liq staking)      | Bug Bounty      | Hackenproof                  | 1M         |
-|SUI- Bluefin-Perps | Audit | HackenProof | 1L |
-|SUI- Dexlyn(CLMM)|Audit|Hackenproof|1M|
-|SUI -Turbo Fin | BB | Hackenproof| ..Soon|
-|SUI-Ember vaults| BB | Hackenproof|..Soon|
 
---------------------------------------------------------------
-
-| Protocol Name                                                                 | Platform/Type           |  Findings     |
-|-------------------------------------------------------------------------------|-------------------------|--------------------------------------------------------------|
-| Arg                          | Private @GuardianAudits       |  Private      |
-| Size Credit              | C4 / Lending            |  1H           |
-|vVv Vesting Staking | Sherlock / DeFi         |  1M           |
-| Goat.Tech  | Cantina / DeFi          |  1M           |
-|Debita Finance V3 | Sherlock / Lending      |  1M, 2L   |
-| Iq-Ai                      | C4 / Token Launchpad    |  1H, 1L       |
-| RAAC-CoreContracts           | CodeHawks / DeFi        |  12H, 12M, 7L |
-| [BiFY-NFT](https://x.com/BIFYOfficial/status/1945508290906956018)            | Private Audit @ Radcipher | Private                                         |
-|Plume networks | Immunefi|1H,1L|
----
 
 
