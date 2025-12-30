@@ -5,13 +5,16 @@
   - Working on stable coin projects(CDP,PSM),Liquid staking,CLMMs
   - Working on a Mixer in Move.
   - Building a multi-DEX arbitrage engine.
-#### Fun Builds:
-  - [Stablecoin systems(CDP + PSM)]( https://stablecoin-sui.vercel.app/)
-  - [Battleship game](https://0zkillua.github.io/Battleship_v1/) using Merkle proofs (no ZK)
-  - Real-world asset tokenization (RWA) — [repo](https://github.com/0zKillua/RWA_v2)
-  - [LiquidVest](https://github.com/0zKillua/LiquidVest) — protocol for tokenizing future receivables & discounted cashflows 
 
-
+### Formal Verification (Using certora SUI prover)
+- Implemented formal specifications and invariants for Move-based DeFi protocols, including: Integrity, solvency, and parametric checks
+- Verified protocol types:
+  
+  - ✅ Vaults (ERC-4626–style share/asset accounting)
+  - ✅ AMMs (Uniswap V2–style constant product models)
+  - 🟡 CLAMMs (Uniswap V3–style concentrated liquidity) — in progress
+  - 🟡 Lending protocols — in progress
+    
 ###  Audit Portfolio  
 
 
@@ -33,6 +36,10 @@
 | Goat.Tech                  | Cantina / DeFi               | 1M                  |
 | Debita Finance V3          | Sherlock / Lending           | 1M, 2L              |
 
-
+#### Fun Builds:
+  - [Stablecoin systems(CDP + PSM)]( https://stablecoin-sui.vercel.app/)
+  - [Battleship game](https://0zkillua.github.io/Battleship_v1/) using Merkle proofs (no ZK)
+  - Real-world asset tokenization (RWA) — [repo](https://github.com/0zKillua/RWA_v2)
+  - [LiquidVest](https://github.com/0zKillua/LiquidVest) — protocol for tokenizing future receivables & discounted cashflows 
 
 
