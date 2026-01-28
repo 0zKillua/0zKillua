@@ -20,14 +20,14 @@
 
 | Protocol               | Platform              | Findings            |
 |----------------------------|------------------------------|---------------------|
-| SUI – Haedal (liq staking) | HP                 | 1M                  |
-| SUI – Bluefin-Perps        | HP                  | 1L                  |
+| SUI – XXX (liq staking) | HP                 | 1M                  |
+| SUI – XXX-Perps        | HP                  | 1L                  |
 | SUI – Dexlyn (CLMM)        | HP                  | 1M                  |
-| SUI – Turbo Fin           | HP                  | -              |
-| SUI – Ember Vaults        | HP                  | -                |
-| Volo Vaults             | HP                     | -              |
+| SUI – XXX           | HP                  | TBD              |
+| SUI – XXX         | HP                  | TBD                |
+| SUI - XXX (VAULT)              | HP                     | 1H              |
 | Plume Networks             | Immunefi                     | 1H, 1L              |
-| BiFY-NFT                   | Private Audit @ Radcipher    | Private             |
+| BiFY-NFT                   | Private Audit @ Radcipher    | 13H,11M             |
 | RAAC – Core Contracts      | CodeHawks / DeFi             | 12H, 12M, 7L        |
 | Iq-Ai                      | C4 / Token Launchpad         | 1H, 1L              |
 | Arg                        | Private @ GuardianAudits     | Private             |
