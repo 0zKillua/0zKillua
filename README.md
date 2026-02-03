@@ -18,23 +18,25 @@
 ###  Audit Portfolio  
 
 
-| Protocol               | Platform              | Findings            |
-|----------------------------|------------------------------|---------------------|
-| SUI – XXX (liq staking) | HP                 | 1M                  |
-| SUI – XXX-Perps        | HP                  | 1L                  |
-| SUI – Dexlyn (CLMM)        | HP                  | 1M                  |
-| SUI – XXX           | HP                  | TBD              |
-| SUI – XXX         | HP                  | TBD                |
-| SUI - XXX (VAULT)              | HP                     | 1H              |
-| Plume Networks             | Immunefi                     | 1H, 1L              |
-| BiFY-NFT                   | Private Audit @ Radcipher    | 13H,11M             |
-| RAAC – Core Contracts      | CodeHawks / DeFi             | 12H, 12M, 7L        |
-| Iq-Ai                      | C4 / Token Launchpad         | 1H, 1L              |
-| Arg                        | Private @ GuardianAudits     | Private             |
-| Size Credit                | C4 / Lending                 | 1H                  |
-| vVv Vesting Staking        | Sherlock / DeFi              | 1M                  |
-| Goat.Tech                  | Cantina / DeFi               | 1M                  |
-| Debita Finance V3          | Sherlock / Lending           | 1M, 2L              |
+| Protocol                  | Language | Platform / Contest        | Findings            |
+|---------------------------|----------|---------------------------|---------------------|
+| SUI – XXX (Yield)         | Move     | hackenProof - Bug Bounty              | 1M                  |
+| SUI – XXX (Liq Staking)   | Move     | hackenProof - Bug Bounty               | 1M                  |
+| SUI – XXX (Perps)         | Move     | hackenProof               | 2L                  |
+| SUPRA – Dexlyn (CLMM)     | Move | hackenProof               | 1M                  |
+| SUI – XXX                | Move     | hackenProof - Bug Bounty              | ..Soon                 |
+| SUI – XXX                | Move     | hackenProof - Bug Bounty              | ..Soon                 |
+| Plume Networks            | Solidity | Immunefi                  | 1H, 1L              |
+| BiFY-NFT                 | Solidity | Private @ Radcipher       | 13H, 11M            |
+| RAAC – Core Contracts    | Solidity | CodeHawks / DeFi          | 12H, 12M, 7L        |
+| Liquid Ron               | Solidity | Code4rena                 | 1H                  |
+| IQ-AI                    | Solidity | C4 / Token Launchpad      | 1H, 1L              |
+| Arg                      | Solidity | Private @ GuardianAudits  | Private             |
+| Size Credit              | Solidity | C4 / Lending              | 1H                  |
+| vVv Vesting Staking      | Solidity | Sherlock / DeFi           | 1M                  |
+| Goat.Tech                | Solidity | Cantina / DeFi            | 1M                  |
+| Debita Finance V3         | Solidity | Sherlock / Lending        | 1M, 2L              |
+
 
 #### Fun Builds:
   - [Stablecoin systems(CDP + PSM)]( https://stablecoin-sui.vercel.app/)
