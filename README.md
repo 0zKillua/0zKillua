@@ -2,12 +2,13 @@
 
 
 - Currently focused on the Move ecosystem (Aptos,Sui)
-  - Working on stable coin projects(CDP,PSM),Liquid staking,CLMMs
+  - Building Intent Based p2p Lending protocol with DeepBookV3 integration  
+  - Auditing Move protocols related to Stablecoins(CDP,PSM),Liquid staking,CLMMs
   - Working on a Mixer in Move.
   - Building a multi-DEX arbitrage engine.
 
-### Formal Verification (Using certora SUI prover)
-- Implemented formal specifications and invariants for Move-based DeFi protocols, including: Integrity, solvency, and parametric checks
+### Formal Verification (Using certora prover)
+- Implemented formal specifications and invariants for DeFi protocols, including: Integrity, solvency, and parametric checks
 - Verified protocol types:
   
   - ✅ Vaults (ERC-4626–style share/asset accounting)
@@ -26,10 +27,13 @@
 | SUPRA – Dexlyn (CLMM)     | Move | hackenProof               | 1M                  |
 | SUI – XXX                | Move     | hackenProof - Bug Bounty              | ..Soon                 |
 | SUI – XXX                | Move     | hackenProof - Bug Bounty              | ..Soon                 |
-| Plume Networks            | Solidity | Immunefi                  | 1H, 1L              |
+| Plume Networks            | Solidity | Immunefi                  | 1H, 1L             |
 | BiFY-NFT                 | Solidity | Private @ Radcipher       | 13H, 11M            |
 | RAAC – Core Contracts    | Solidity | CodeHawks / DeFi          | 12H, 12M, 7L        |
-| Liquid Ron               | Solidity | Code4rena                 | 1H                  |
+| Liquid Ron               | Solidity | C4                 | 1H                  |
+| FluidDex				   | Solidity | sherlock      	   |- |
+| Merkl					   | Soldiity | C4				   | - |
+| VIIFinance 			   | Solidity | Cantina 		   | _ |
 | IQ-AI                    | Solidity | C4 / Token Launchpad      | 1H, 1L              |
 | Arg                      | Solidity | Private @ GuardianAudits  | Private             |
 | Size Credit              | Solidity | C4 / Lending              | 1H                  |
@@ -39,9 +43,11 @@
 
 
 #### Fun Builds:
+  - [Designed Dynamic Fee Strategy for AMM]
+  - [Intent Based p2p Lending protocol](tideintents.vercel.app)
   - [Stablecoin systems(CDP + PSM)]( https://stablecoin-sui.vercel.app/)
   - [Battleship game](https://0zkillua.github.io/Battleship_v1/) using Merkle proofs (no ZK)
-  - Real-world asset tokenization (RWA) — [repo](https://github.com/0zKillua/RWA_v2)
+  - [Real-world asset tokenization (RWA)](https://github.com/0zKillua/RWA_v2)
   - [LiquidVest](https://github.com/0zKillua/LiquidVest) — protocol for tokenizing future receivables & discounted cashflows 
 
 
