@@ -3,7 +3,7 @@
 
 - Currently focused on the Move ecosystem (Aptos,Sui)
   - Building Intent Based p2p Lending protocol with DeepBookV3 integration  
-  - Auditing Move protocols related to Stablecoins(CDP,PSM),Liquid staking,CLMMs
+  - Auditing Move protocols - AMMs, Vaults, Perps, CLOBs etc.
   - Working on a Mixer in Move.
   - Building a multi-DEX arbitrage engine.
 
