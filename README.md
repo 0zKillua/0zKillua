@@ -24,9 +24,14 @@
 | SUI – XXX (Yield)         | Move     | hackenProof - Bug Bounty              | 1M                  |
 | SUI – XXX (Liq Staking)   | Move     | hackenProof - Bug Bounty               | 1M                  |
 | SUI – XXX (Perps)         | Move     | hackenProof               | 2L                  |
+| EVM – XXX (Lending)         | Solidity     | hackenProof - Bug Bounty              | Pending...                  |
+| EVM – XXX (Lending)         | Solidity     | hackenProof - Bug Bounty              | 1 Critical                  |
+| EVM – XXX (Vaults)         | Solidity     | hackenProof - Bug Bounty              | 1 Critical                  |
+| EVM – XXX (Lending)         | Solidity     | hackenProof - Bug Bounty              | 1 Critical                  |
+| EVM – XXX (Vaults)         | Solidity     | hackenProof - Bug Bounty              | 1 Critical                  |
 | SUPRA – Dexlyn (CLMM)     | Move | hackenProof               | 1M                  |
-| SUI – XXX                | Move     | hackenProof - Bug Bounty              | ..Soon                 |
-| SUI – XXX                | Move     | hackenProof - Bug Bounty              | ..Soon                 |
+| SUI – XXX                | Move     | hackenProof - Bug Bounty              | Pending...                 |
+| SUI – XXX                | Move     | hackenProof - Bug Bounty              | Pending...                 |
 | Plume Networks            | Solidity | Immunefi                  | 1H, 1L             |
 | BiFY-NFT                 | Solidity | Private @ Radcipher       | 13H, 11M            |
 | RAAC – Core Contracts    | Solidity | CodeHawks / DeFi          | 12H, 12M, 7L        |
