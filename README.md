@@ -24,11 +24,11 @@
 | SUI – XXX (Yield)         | Move     | hackenProof - Bug Bounty              | 1M                  |
 | SUI – XXX (Liq Staking)   | Move     | hackenProof - Bug Bounty               | 1M                  |
 | SUI – XXX (Perps)         | Move     | hackenProof               | 2L                  |
-| EVM – XXX (Lending)         | Solidity     | hackenProof - Bug Bounty              | Pending...                  |
-| EVM – XXX (Lending)         | Solidity     | hackenProof - Bug Bounty              | 1 Critical                  |
-| EVM – XXX (Vaults)         | Solidity     | hackenProof - Bug Bounty              | 1 Critical                  |
-| EVM – XXX (Lending)         | Solidity     | hackenProof - Bug Bounty              | 1 Critical                  |
-| EVM – XXX (Vaults)         | Solidity     | hackenProof - Bug Bounty              | 1 Critical                  |
+| EVM – XXX (Lending)         | Solidity     | hackenProof - Bug Bounty              | 1 High (Dup)                 |
+| EVM – XXX (Lending)         | Solidity     | hackenProof - Bug Bounty              | 1 High  (Dup)                |
+| EVM – XXX (Vaults)         | Solidity     | hackenProof - Bug Bounty              | 1 Critical (Dup)                 |
+| EVM – XXX (Lending)         | Solidity     | hackenProof - Bug Bounty              | 1 Critical (Dup)                 |
+| EVM – XXX (Vaults)         | Solidity     | hackenProof - Bug Bounty              | 1 High (Dup)                 |
 | SUPRA – Dexlyn (CLMM)     | Move | hackenProof               | 1M                  |
 | SUI – XXX                | Move     | hackenProof - Bug Bounty              | Pending...                 |
 | SUI – XXX                | Move     | hackenProof - Bug Bounty              | Pending...                 |
