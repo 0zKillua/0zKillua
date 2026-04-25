@@ -1,16 +1,17 @@
-## Hi there 👋
+### 🦾 Killua  |  Smart Contract Security & DeFi Protocol Engineering
+
+#### Areas of focus:
+> Move(Sui) • Solidity • Rust (Solana) • Clarity(Stacks)
+
+### ⭐️ One that mattered
+
+**Saved a live $25M+ TVL protocol on SUI** – discovered an exploit that would have let a malicious operator drain the entire TVL.  
+*Details available upon request.*
 
 
-- Currently focused on the Move ecosystem (Aptos,Sui)
-  - Building Intent Based p2p Lending protocol with DeepBookV3 integration  
-  - Auditing Move protocols - AMMs, Vaults, Perps, CLOBs etc.
-  - Working on a Mixer in Move.
-  - Building a multi-DEX arbitrage engine.
-
-### Formal Verification (Using certora prover)
+### Formal Verification (Using certora SUI prover)
 - Implemented formal specifications and invariants for DeFi protocols, including: Integrity, solvency, and parametric checks
 - Verified protocol types:
-  
   - ✅ Vaults (ERC-4626–style share/asset accounting)
   - ✅ AMMs (Uniswap V2–style constant product models)
   - 🟡 CLAMMs (Uniswap V3–style concentrated liquidity) — in progress
@@ -37,7 +38,7 @@
 | RAAC – Core Contracts    | Solidity | CodeHawks / DeFi          | 12H, 12M, 7L        |
 | Liquid Ron               | Solidity | C4                 | 1H                  |
 | FluidDex				   | Solidity | sherlock      	   |- |
-| Merkl					   | Soldiity | C4				   | - |
+| Merkl					   | Solidity | C4				   | - |
 | VIIFinance 			   | Solidity | Cantina 		   | _ |
 | IQ-AI                    | Solidity | C4 / Token Launchpad      | 1H, 1L              |
 | Arg                      | Solidity | Private @ GuardianAudits  | Private             |
@@ -47,12 +48,17 @@
 | Debita Finance V3         | Solidity | Sherlock / Lending        | 1M, 2L              |
 
 
-#### Fun Builds:
-  - [Designed Dynamic Fee Strategy for AMM]
+####  🧪 Fun Builds (where I spend my free time)
+  -  **High‑performance MEV solver** targeting Uniswap's **TokenJar fee‑switch mechanism** (from the "Unification" upgrade) – *current focus, I love arbitrage engines*  
   - [Intent Based p2p Lending protocol](tideintents.vercel.app)
   - [Stablecoin systems(CDP + PSM)]( https://stablecoin-sui.vercel.app/)
   - [Battleship game](https://0zkillua.github.io/Battleship_v1/) using Merkle proofs (no ZK)
+  - Designed Dynamic Fee Strategy for AMM
   - [Real-world asset tokenization (RWA)](https://github.com/0zKillua/RWA_v2)
   - [LiquidVest](https://github.com/0zKillua/LiquidVest) — protocol for tokenizing future receivables & discounted cashflows 
 
 
+#### 📫 Let’s connect : [X.com](https://x.com/0x158_)
+
+- Open for **audits, bug bounties, formal verification** work  
+- Arbitrage  – I'm actively learning in this space. If you're an arbitrage enthusiast (even just curious), I'd love to exchange notes, learn from your approach, or collaborate. Always happy to chat.
