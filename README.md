@@ -22,6 +22,7 @@
 
 | Protocol                  | Language | Platform / Contest        | Findings            |
 |---------------------------|----------|---------------------------|---------------------|
+| Prediction Markets         | Solidity     | Private Audit               | 2C+2H+1M                  |
 | SUI – XXX (Yield)         | Move     | hackenProof - Bug Bounty              | 1M                  |
 | SUI – XXX (Liq Staking)   | Move     | hackenProof - Bug Bounty               | 1M                  |
 | SUI – XXX (Perps)         | Move     | hackenProof               | 2L                  |
