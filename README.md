@@ -6,7 +6,7 @@
 ### ⭐️ One that mattered
 
 **Saved a live $25M+ TVL protocol on SUI** – discovered an exploit that would have let a malicious operator drain the entire TVL.  
-*Details available upon request.*
+( *Details available upon request.* )
 
 
 ### Formal Verification (Using certora SUI prover)
