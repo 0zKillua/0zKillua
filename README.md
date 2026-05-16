@@ -14,8 +14,8 @@
 - Verified protocol types:
   - ✅ Vaults (ERC-4626–style share/asset accounting)
   - ✅ AMMs (Uniswap V2–style constant product models)
-  - 🟡 CLAMMs (Uniswap V3–style concentrated liquidity) — in progress
-  - 🟡 Lending protocols — in progress
+  - ✅ CLAMMs (Uniswap V3–style concentrated liquidity) — in progress
+  - ✅ Lending protocols — in progress
     
 ###  Audit Portfolio  
 
