@@ -1,28 +1,31 @@
 ### 🦾 Killua  |  Smart Contract Security & DeFi Protocol Engineering
 
-#### Areas of focus:
-> Move(Sui) • Solidity • Rust (Solana) • Clarity(Stacks)
 
-### ⭐️ One that mattered
+#### Languages - Ecosystems
 
-**Saved a live $25M+ TVL protocol on SUI** – discovered an exploit that would have let a malicious operator drain the entire TVL.  
-( *Details available upon request.* )
+![DAML](https://img.shields.io/badge/DAML-Canton-d9b527?style=for-the-badge)
+![Move](https://img.shields.io/badge/Move-Sui-be233b?style=for-the-badge)
+![Solidity](https://img.shields.io/badge/Solidity-EVM-2344be?style=for-the-badge)
+![Rust](https://img.shields.io/badge/Rust-Solana-18d739?style=for-the-badge)
+![Clarity](https://img.shields.io/badge/Clarity-Stacks-d76b18?style=for-the-badge)
+
+----
+> **Highlights**
+> - Saved a live **$25M+ TVL** protocol on Sui by responsibly disclosing a critical exploit capable of draining the entire TVL.
+> - **25+** security engagements spanning private audits, bug bounties, and  audit contests etc.
+> - Formal verification using **Certora Sui Prover**
+> - Built backend infra and execution systems for MEV and arbitrage strategies. 
+---
 
 
-### Formal Verification (Using certora SUI prover)
-- Implemented formal specifications and invariants for DeFi protocols, including: Integrity, solvency, and parametric checks
-- Verified protocol types:
-  - ✅ Vaults (ERC-4626–style share/asset accounting)
-  - ✅ AMMs (Uniswap V2–style constant product models)
-  - ✅ CLAMMs (Uniswap V3–style concentrated liquidity) — in progress
-  - ✅ Lending protocols — in progress
-    
+
 ###  Audit Portfolio  
 
 
 | Protocol                  | Language | Platform / Contest        | Findings            |
 |---------------------------|----------|---------------------------|---------------------|
-| Prediction Markets         | Solidity     | Private Audit               | 2C+2H+1M                  |
+| Stbl Contracts          | Solidity     | Triage - Pashov Audits              |                 |
+| Rain Prediction Markets         | Solidity     | Private Audit(HackenProof)               | 2C+2H+1M                  |
 | SUI – XXX (Yield)         | Move     | hackenProof - Bug Bounty              | 1M                  |
 | SUI – XXX (Liq Staking)   | Move     | hackenProof - Bug Bounty               | 1M                  |
 | SUI – XXX (Perps)         | Move     | hackenProof               | 2L                  |
@@ -48,9 +51,21 @@
 | Goat.Tech                | Solidity | Cantina / DeFi            | 1M                  |
 | Debita Finance V3         | Solidity | Sherlock / Lending        | 1M, 2L              |
 
+-----
 
+
+### Formal Verification (Using certora SUI prover)
+- Implemented formal specifications and invariants for DeFi protocols, including: Integrity, solvency, and parametric checks
+- Verified protocol types:
+  - ✅ Vaults (ERC-4626–style share/asset accounting)
+  - ✅ AMMs (Uniswap V2–style constant product models)
+  - ✅ CLAMMs (Uniswap V3–style concentrated liquidity)
+  - ✅ Lending protocols 
+
+-----
+    
 ####  🧪 Fun Builds (where I spend my free time)
-  -  **High‑performance MEV solver** targeting Uniswap's **TokenJar fee‑switch mechanism** (from the "Unification" upgrade) – *current focus, I love arbitrage engines*  
+  -  **High‑performance MEV solver** targeting Uniswap's **TokenJar fee‑switch mechanism** (from the "Unification" upgrade) 
   - [Intent Based p2p Lending protocol](tideintents.vercel.app)
   - [Stablecoin systems(CDP + PSM)]( https://stablecoin-sui.vercel.app/)
   - [Battleship game](https://0zkillua.github.io/Battleship_v1/) using Merkle proofs (no ZK)
