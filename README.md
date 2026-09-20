@@ -24,6 +24,9 @@
 
 | Protocol                  | Language | Platform / Contest        | Findings            |
 |---------------------------|----------|---------------------------|---------------------|
+| TCG-VAULT          | Solidity     | HackenProof - DD             |     2(1M+1L)            |
+| Zendex         | Solidity     |     HackenProof - DD        |       2(1M+1L)           |
+| Datamine Network         | Solidity     | HackenProof - DD              |  2(1H+1M) 
 | Stbl Contracts          | Solidity     | Triage - Pashov Audits              |                 |
 | Rain Prediction Markets         | Solidity     | Private Audit(HackenProof)               | 2C+2H+1M                  |
 | SUI – XXX (Yield)         | Move     | hackenProof - Bug Bounty              | 1M                  |
