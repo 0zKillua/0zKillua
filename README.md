@@ -24,6 +24,7 @@
 
 | Protocol                  | Language | Platform / Contest        | Findings            |
 |---------------------------|----------|---------------------------|---------------------|
+| 1inch          | Solidity     | HackenProof - BB             |     1M            |
 | TCG-VAULT          | Solidity     | HackenProof - DD             |     2(1M+1L)            |
 | Zendex         | Solidity     |     HackenProof - DD        |       2(1M+1L)           |
 | Datamine Network         | Solidity     | HackenProof - DD              |  2(1H+1M) 
