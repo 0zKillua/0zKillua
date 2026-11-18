@@ -24,6 +24,7 @@
 
 | Protocol                  | Language | Platform / Contest        | Findings            |
 |---------------------------|----------|---------------------------|---------------------|
+| fx           | Solidity     | Private report             |     1C           |
 | 🔒[REDACTED]           | Solidity     | Private report             |     1C           |
 | 1inch          | Solidity     | HackenProof - BB             |     1M(OOS)            |
 | TCG-VAULT          | Solidity     | HackenProof - DD             |     2(1M+1L)            |
