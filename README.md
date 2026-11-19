@@ -71,7 +71,8 @@
 -----
     
 ####  🧪 Fun Builds (where I spend my free time)
-  -  **High‑performance MEV solver** targeting Uniswap's **TokenJar fee‑switch mechanism** (from the "Unification" upgrade) 
+  -  **High‑performance MEV solver** targeting Uniswap's **TokenJar fee‑switch mechanism** (from the "Unification" upgrade)
+  -  Building alphaCase on solana - [alphaCase](https://alphacase-solana.vercel.app/)
   - [Intent Based p2p Lending protocol](tideintents.vercel.app)
   - [Stablecoin systems(CDP + PSM)]( https://stablecoin-sui.vercel.app/)
   - [Battleship game](https://0zkillua.github.io/Battleship_v1/) using Merkle proofs (no ZK)
